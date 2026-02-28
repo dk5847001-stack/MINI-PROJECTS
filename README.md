@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/your-username/your-repo?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/your-username/your-repo?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/dk5847001-stack/MINI-PROJECTS?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/dk5847001-stack/MINI-PROJECTS?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/dk5847001-stack/MINI-PROJECTS?style=for-the-badge" />
 </p>
 
 ---
